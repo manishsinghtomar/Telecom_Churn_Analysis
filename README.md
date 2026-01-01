@@ -71,6 +71,12 @@ The goal is to understand differences between **active customers and churned cus
 
 ---
 
+## Screenshots / Demos
+
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/manishsinghtomar/Telecom_Churn_Analysis/blob/main/snapshot_of_dashboard.png)
+---
+
 ## 👤 Author
 
 **Manish Tomar**
